@@ -151,15 +151,7 @@ def main():
         language_model.config.use_cache = False
         
     model = Grounded_VQA_Model_Attn(tokenizer,language_model,vision_backbone='UNET',vision_pretrained='./Models/SAT_Nano.pth',vision_learnable=training_args.vision_learnable,text_dim=model_args.text_dim)
-    # 打印所有可训练的参数
-    # for name, param in model.named_parameters():
-    #     if param.requires_grad:
-    #         print(name)
-    # ckp = './results/r8_fix_llama3_grounded_attn_weighted_lr2e5/checkpoint-1470/model.safetensors'
-    # checkpoint = load_file(ckp)
-    # model.load_state_dict(checkpoint)#,strict=False)
-    # model = model.to('cuda')
-    # print("Finished Load Model")
+
     
     print("Setup Data")
     # json_file,mask_root_dir,anatomy_mask_root_dir,tokenizer
