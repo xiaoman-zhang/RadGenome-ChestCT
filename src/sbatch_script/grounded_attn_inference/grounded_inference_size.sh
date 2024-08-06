@@ -1,0 +1,22 @@
+srun -p medai --quotatype auto --job-name r8_inference_grounded_size --gpus-per-task=1 --nodes=1 --ntasks=1 --cpus-per-task 24 \
+    --chdir \
+    --output \
+    --error \
+    torchrun --nproc_per_node=1 --master_port 18233 global_inference.py \
+        --per_device_train_batch_size 2 \
+        --per_device_eval_batch_size 1 \
+        --gradient_accumulation_steps 4 \
+        --evaluation_strategy "no" \
+        --save_strategy "steps" \
+        --task "size" \
+        --save_steps  10 \
+        --lora_rank  8 \
+        --save_total_limit 2 \
+        --learning_rate 2e-5 \
+        --weight_decay 0. \
+        --warmup_ratio 0.03 \
+        --lr_scheduler_type "cosine" \
+        --logging_steps 1 \
+        --bf16 True \
+        --run_name r8_inference_grounded_size \
+        --output_dir /mnt/petrelfs/zhangxiaoman/CODE/2024_CTRG/src-0515/results/r8_fix_llama3_grounded_attn_weighted_lr2e5_restart

@@ -1,0 +1,23 @@
+srun -p medai --quotatype spot --job-name r8_fix_llama3_global_lr2e5 --gpus-per-task=4 --nodes=1 --ntasks=1 --cpus-per-task 64 \
+    --chdir /mnt/petrelfs/zhangxiaoman/CODE/2024_CTRG/src-0515/log/train_global_rank8/sbatch \
+    --output /mnt/petrelfs/zhangxiaoman/CODE/2024_CTRG/src-0515/log/train_global_rank8/sbatch/%x-%j.out \
+    --error /mnt/petrelfs/zhangxiaoman/CODE/2024_CTRG/src-0515/log/train_global_rank8/sbatch/%x-%j.error \
+    torchrun --nproc_per_node=8 --master_port 19493 /mnt/petrelfs/zhangxiaoman/CODE/2024_CTRG/src-0515/global_train.py \
+        --per_device_train_batch_size 8 \
+        --per_device_eval_batch_size 1 \
+        --gradient_accumulation_steps 4 \
+        --evaluation_strategy "no" \
+        --save_strategy "steps" \
+        --save_steps  10 \
+        --num_train_epochs 2 \
+        --lora_rank  8 \
+        --save_total_limit 2 \
+        --learning_rate 2e-5 \
+        --weight_decay 0. \
+        --warmup_ratio 0.03 \
+        --lr_scheduler_type "cosine" \
+        --logging_steps 1 \
+        --bf16 True \
+        --vision_learnable False \
+        --run_name r8_fix_llama3_global_lr2e5 \
+        --output_dir /mnt/petrelfs/zhangxiaoman/CODE/2024_CTRG/src-0515/results/r8_fix_llama3_global_lr2e5 \

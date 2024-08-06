@@ -1,0 +1,23 @@
+srun -p medai -x  SH-IDC1-10-140-0-[170,171,177]  --job-name r8_fix_llama3_grounded_attn_weighted_lr2e5 --gpus-per-task=8 --nodes=1 --ntasks=1 --cpus-per-task 128 \
+    --chdir /mnt/petrelfs/zhangxiaoman/CODE/2024_CTRG/src-0515/log/train_grounded_attn_rank8/sbatch \
+    --output /mnt/petrelfs/zhangxiaoman/CODE/2024_CTRG/src-0515/log/train_grounded_attn_rank8/sbatch/%x-%j.out \
+    --error /mnt/petrelfs/zhangxiaoman/CODE/2024_CTRG/src-0515/log/train_grounded_attn_rank8/sbatch/%x-%j.error \
+    torchrun --nproc_per_node=8 --master_port 19492 /mnt/petrelfs/zhangxiaoman/CODE/2024_CTRG/src-0515/grounded_train_attn.py \
+        --per_device_train_batch_size 1 \
+        --per_device_eval_batch_size 1 \
+        --gradient_accumulation_steps 2 \
+        --evaluation_strategy "no" \
+        --save_strategy "steps" \
+        --save_steps  10 \
+        --num_train_epochs 40 \
+        --lora_rank  8 \
+        --save_total_limit 2 \
+        --learning_rate 5e-5 \
+        --weight_decay 0. \
+        --warmup_ratio 0.03 \
+        --lr_scheduler_type "cosine" \
+        --logging_steps 1 \
+        --bf16 True \
+        --vision_learnable False \
+        --run_name r8_fix_llama3_grounded_attn_weighted_lr2e5_restart \
+        --output_dir /mnt/petrelfs/zhangxiaoman/CODE/2024_CTRG/src-0515/results/r8_fix_llama3_grounded_attn_weighted_lr2e5_restart \

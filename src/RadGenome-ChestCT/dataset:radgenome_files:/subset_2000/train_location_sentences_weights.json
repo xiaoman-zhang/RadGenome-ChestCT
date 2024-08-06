@@ -1,0 +1,862 @@
+{
+    "<Location> Lung.": {
+        "count": 1683,
+        "cluster_labels": 42,
+        "cluster_weights": 7.283422459893048
+    },
+    "<Location> Lung/lung.": {
+        "count": 1683,
+        "cluster_labels": 42,
+        "cluster_weights": 7.283422459893048
+    },
+    "<Location> Heart.": {
+        "count": 1229,
+        "cluster_labels": 86,
+        "cluster_weights": 9.973962571196095
+    },
+    "<Location> Heart/heart.": {
+        "count": 1229,
+        "cluster_labels": 86,
+        "cluster_weights": 9.973962571196095
+    },
+    "<Location> Heart/heart/heart tissue.": {
+        "count": 1148,
+        "cluster_labels": 9,
+        "cluster_weights": 21.355400696864113
+    },
+    "<Location> Abdomen.": {
+        "count": 1047,
+        "cluster_labels": 8,
+        "cluster_weights": 10.757349714787187
+    },
+    "<Location> Abdomen/abdomen.": {
+        "count": 1047,
+        "cluster_labels": 8,
+        "cluster_weights": 10.757349714787187
+    },
+    "<Location> Mediastinum.": {
+        "count": 881,
+        "cluster_labels": 26,
+        "cluster_weights": 17.449110320284696
+    },
+    "<Location> Lung/lung/lung lower lobe.": {
+        "count": 860,
+        "cluster_labels": 71,
+        "cluster_weights": 12.8557944415312
+    },
+    "<Location> Lung/lung/right lung.": {
+        "count": 852,
+        "cluster_labels": 97,
+        "cluster_weights": 15.477272727272727
+    },
+    "<Location> Lung/lung/left lung.": {
+        "count": 732,
+        "cluster_labels": 97,
+        "cluster_weights": 15.477272727272727
+    },
+    "<Location> Lung/lung/lung upper lobe.": {
+        "count": 720,
+        "cluster_labels": 33,
+        "cluster_weights": 18.146558105107328
+    },
+    "<Location> Bone.": {
+        "count": 708,
+        "cluster_labels": 1,
+        "cluster_weights": 17.3135593220339
+    },
+    "<Location> Bone/bone.": {
+        "count": 708,
+        "cluster_labels": 1,
+        "cluster_weights": 17.3135593220339
+    },
+    "<Location> Pleura.": {
+        "count": 611,
+        "cluster_labels": 21,
+        "cluster_weights": 20.062193126022912
+    },
+    "<Location> Pleura/pleura.": {
+        "count": 611,
+        "cluster_labels": 21,
+        "cluster_weights": 20.062193126022912
+    },
+    "<Location> Mediastinum/aorta.": {
+        "count": 554,
+        "cluster_labels": 4,
+        "cluster_weights": 44.25270758122743
+    },
+    "<Location> Abdomen/abdomen/aorta.": {
+        "count": 554,
+        "cluster_labels": 84,
+        "cluster_weights": 44.25270758122743
+    },
+    "<Location> Mediastinum/mediastinal tissue.": {
+        "count": 524,
+        "cluster_labels": 26,
+        "cluster_weights": 17.449110320284696
+    },
+    "<Location> Abdomen/abdomen/liver.": {
+        "count": 376,
+        "cluster_labels": 34,
+        "cluster_weights": 65.20212765957447
+    },
+    "<Location> Bone/bone/vertebrae.": {
+        "count": 361,
+        "cluster_labels": 23,
+        "cluster_weights": 61.29
+    },
+    "<Location> Lung/lung/left lung/left lung lower lobe.": {
+        "count": 350,
+        "cluster_labels": 71,
+        "cluster_weights": 12.8557944415312
+    },
+    "<Location> Lung/lung/lung lower lobe/left lung lower lobe.": {
+        "count": 350,
+        "cluster_labels": 71,
+        "cluster_weights": 12.8557944415312
+    },
+    "<Location> Lung/lung/right lung/right lung lower lobe.": {
+        "count": 347,
+        "cluster_labels": 6,
+        "cluster_weights": 60.53333333333333
+    },
+    "<Location> Lung/lung/lung lower lobe/right lung lower lobe.": {
+        "count": 347,
+        "cluster_labels": 71,
+        "cluster_weights": 12.8557944415312
+    },
+    "<Location> Lung/lung/left lung/left lung upper lobe.": {
+        "count": 332,
+        "cluster_labels": 95,
+        "cluster_weights": 38.852614896988904
+    },
+    "<Location> Lung/lung/lung upper lobe/left lung upper lobe.": {
+        "count": 332,
+        "cluster_labels": 33,
+        "cluster_weights": 18.146558105107328
+    },
+    "<Location> Lung/lung/right lung/right lung upper lobe.": {
+        "count": 299,
+        "cluster_labels": 95,
+        "cluster_weights": 38.852614896988904
+    },
+    "<Location> Lung/lung/lung upper lobe/right lung upper lobe.": {
+        "count": 299,
+        "cluster_labels": 33,
+        "cluster_weights": 18.146558105107328
+    },
+    "<Location> Esophagus.": {
+        "count": 273,
+        "cluster_labels": 15,
+        "cluster_weights": 44.9010989010989
+    },
+    "<Location> Esophagus/esophagus.": {
+        "count": 273,
+        "cluster_labels": 15,
+        "cluster_weights": 44.9010989010989
+    },
+    "<Location> Abdomen/abdomen/kidney.": {
+        "count": 256,
+        "cluster_labels": 19,
+        "cluster_weights": 54.23893805309734
+    },
+    "<Location> Bone/bone/vertebrae/thoracic vertebrae.": {
+        "count": 195,
+        "cluster_labels": 75,
+        "cluster_weights": 125.72307692307692
+    },
+    "<Location> Abdomen/abdomen/abdominal tissue.": {
+        "count": 185,
+        "cluster_labels": 8,
+        "cluster_weights": 10.757349714787187
+    },
+    "<Location> Trachea and bronchie.": {
+        "count": 158,
+        "cluster_labels": 7,
+        "cluster_weights": 71.89442815249267
+    },
+    "<Location> Trachea and bronchie/bronchie.": {
+        "count": 127,
+        "cluster_labels": 7,
+        "cluster_weights": 71.89442815249267
+    },
+    "<Location> Abdomen/abdomen/kidney/left kidney.": {
+        "count": 108,
+        "cluster_labels": 19,
+        "cluster_weights": 54.23893805309734
+    },
+    "<Location> Abdomen/abdomen/gallbladder.": {
+        "count": 108,
+        "cluster_labels": 53,
+        "cluster_weights": 227.0
+    },
+    "<Location> Abdomen/abdomen/adrenal gland.": {
+        "count": 100,
+        "cluster_labels": 3,
+        "cluster_weights": 124.44670050761421
+    },
+    "<Location> Breast.": {
+        "count": 92,
+        "cluster_labels": 12,
+        "cluster_weights": 133.2391304347826
+    },
+    "<Location> Breast/breast.": {
+        "count": 92,
+        "cluster_labels": 12,
+        "cluster_weights": 133.2391304347826
+    },
+    "<Location> Abdomen/abdomen/spleen.": {
+        "count": 92,
+        "cluster_labels": 20,
+        "cluster_weights": 266.4782608695652
+    },
+    "<Location> Heart/heart/heart ascending aorta.": {
+        "count": 91,
+        "cluster_labels": 58,
+        "cluster_weights": 269.4065934065934
+    },
+    "<Location> Abdomen/abdomen/kidney/right kidney.": {
+        "count": 88,
+        "cluster_labels": 19,
+        "cluster_weights": 54.23893805309734
+    },
+    "<Location> Thyroid.": {
+        "count": 73,
+        "cluster_labels": 38,
+        "cluster_weights": 143.3684210526316
+    },
+    "<Location> Thyroid/thyroid.": {
+        "count": 73,
+        "cluster_labels": 38,
+        "cluster_weights": 143.3684210526316
+    },
+    "<Location> Bone/bone/rib.": {
+        "count": 68,
+        "cluster_labels": 81,
+        "cluster_weights": 360.52941176470586
+    },
+    "<Location> Mediastinum/pulmonary artery.": {
+        "count": 67,
+        "cluster_labels": 54,
+        "cluster_weights": 365.910447761194
+    },
+    "<Location> Abdomen/abdomen/adrenal gland/left adrenal gland.": {
+        "count": 65,
+        "cluster_labels": 3,
+        "cluster_weights": 124.44670050761421
+    },
+    "<Location> Others.": {
+        "count": 64,
+        "cluster_labels": 30,
+        "cluster_weights": 10
+    },
+    "<Location> Lung/lung/right lung/right lung middle lobe.": {
+        "count": 58,
+        "cluster_labels": 6,
+        "cluster_weights": 60.53333333333333
+    },
+    "<Location> Trachea and bronchie/trachea.": {
+        "count": 56,
+        "cluster_labels": 7,
+        "cluster_weights": 71.89442815249267
+    },
+    "<Location> Others/thoracic cavity.": {
+        "count": 55,
+        "cluster_labels": 10,
+        "cluster_weights": 10
+    },
+    "<Location> Abdomen/abdomen/stomach.": {
+        "count": 51,
+        "cluster_labels": 73,
+        "cluster_weights": 480.70588235294116
+    },
+    "<Location> Bone/bone/vertebrae/lumbar vertebrae.": {
+        "count": 39,
+        "cluster_labels": 23,
+        "cluster_weights": 61.29
+    },
+    "<Location> Breast/breast/right breast.": {
+        "count": 37,
+        "cluster_labels": 55,
+        "cluster_weights": 408.6
+    },
+    "<Location> Abdomen/abdomen/adrenal gland/right adrenal gland.": {
+        "count": 32,
+        "cluster_labels": 3,
+        "cluster_weights": 124.44670050761421
+    },
+    "<Location> Bone/bone/rib/left rib.": {
+        "count": 32,
+        "cluster_labels": 49,
+        "cluster_weights": 700.4571428571429
+    },
+    "<Location> Bone/bone/rib/right rib.": {
+        "count": 25,
+        "cluster_labels": 2,
+        "cluster_weights": 875.5714285714286
+    },
+    "<Location> Thyroid/thyroid/thyroid gland.": {
+        "count": 25,
+        "cluster_labels": 38,
+        "cluster_weights": 143.3684210526316
+    },
+    "<Location> Bone/bone/vertebrae/lumbar vertebrae/lumbar vertebrae 1 (l1).": {
+        "count": 25,
+        "cluster_labels": 76,
+        "cluster_weights": 980.64
+    },
+    "<Location> Breast/breast/left breast.": {
+        "count": 23,
+        "cluster_labels": 55,
+        "cluster_weights": 408.6
+    },
+    "<Location> Bone/bone/clavicle.": {
+        "count": 23,
+        "cluster_labels": 98,
+        "cluster_weights": 1065.9130434782608
+    },
+    "<Location> Bone/bone/vertebrae/thoracic vertebrae/thoracic vertebrae 12 (t12).": {
+        "count": 20,
+        "cluster_labels": 74,
+        "cluster_weights": 1225.8
+    },
+    "<Location> Bone/bone/sternum.": {
+        "count": 20,
+        "cluster_labels": 94,
+        "cluster_weights": 1225.8
+    },
+    "<Location> Heart/heart/heart ventricle.": {
+        "count": 17,
+        "cluster_labels": 82,
+        "cluster_weights": 1442.1176470588234
+    },
+    "<Location> Bone/bone/vertebrae/thoracic vertebrae/thoracic vertebrae 11 (t11).": {
+        "count": 16,
+        "cluster_labels": 64,
+        "cluster_weights": 1532.25
+    },
+    "<Location> Abdomen/abdomen/liver/liver vessel.": {
+        "count": 16,
+        "cluster_labels": 72,
+        "cluster_weights": 1532.25
+    },
+    "<Location> Bone/bone/vertebrae/thoracic vertebrae/thoracic vertebrae 9 (t9).": {
+        "count": 16,
+        "cluster_labels": 41,
+        "cluster_weights": 1532.25
+    },
+    "<Location> Abdomen/abdomen/pancreas.": {
+        "count": 15,
+        "cluster_labels": 63,
+        "cluster_weights": 1634.4
+    },
+    "<Location> Mediastinum/thymus.": {
+        "count": 15,
+        "cluster_labels": 57,
+        "cluster_weights": 1634.4
+    },
+    "<Location> Bone/bone/rib/rib 6.": {
+        "count": 14,
+        "cluster_labels": 47,
+        "cluster_weights": 1362.0
+    },
+    "<Location> Heart/heart/heart atrium.": {
+        "count": 14,
+        "cluster_labels": 36,
+        "cluster_weights": 1634.4
+    },
+    "<Location> Abdomen/abdomen/colon.": {
+        "count": 14,
+        "cluster_labels": 61,
+        "cluster_weights": 1751.142857142857
+    },
+    "<Location> Thyroid/thyroid/thyroid gland/left thyroid.": {
+        "count": 14,
+        "cluster_labels": 5,
+        "cluster_weights": 1065.9130434782608
+    },
+    "<Location> Bone/bone/vertebrae/thoracic vertebrae/thoracic vertebrae 10 (t10).": {
+        "count": 13,
+        "cluster_labels": 85,
+        "cluster_weights": 1885.8461538461538
+    },
+    "<Location> Bone/bone/rib/rib 7.": {
+        "count": 12,
+        "cluster_labels": 93,
+        "cluster_weights": 1065.9130434782608
+    },
+    "<Location> Bone/bone/spinal canal.": {
+        "count": 12,
+        "cluster_labels": 92,
+        "cluster_weights": 2043.0
+    },
+    "<Location> Bone/bone/vertebrae/cervical vertebrae.": {
+        "count": 12,
+        "cluster_labels": 68,
+        "cluster_weights": 2043.0
+    },
+    "<Location> Bone/bone/rib/rib 8.": {
+        "count": 12,
+        "cluster_labels": 37,
+        "cluster_weights": 721.0588235294117
+    },
+    "<Location> Bone/bone/rib/rib 5.": {
+        "count": 11,
+        "cluster_labels": 35,
+        "cluster_weights": 1167.4285714285713
+    },
+    "<Location> Bone/bone/vertebrae/thoracic vertebrae/thoracic vertebrae 6 (t6).": {
+        "count": 11,
+        "cluster_labels": 59,
+        "cluster_weights": 2228.7272727272725
+    },
+    "<Location> Bone/bone/humerus.": {
+        "count": 10,
+        "cluster_labels": 89,
+        "cluster_weights": 2451.6
+    },
+    "<Location> Thyroid/thyroid/thyroid gland/right thyroid.": {
+        "count": 9,
+        "cluster_labels": 5,
+        "cluster_weights": 1065.9130434782608
+    },
+    "<Location> Mediastinum/subclavian artery.": {
+        "count": 9,
+        "cluster_labels": 18,
+        "cluster_weights": 2043.0
+    },
+    "<Location> Bone/bone/scapula.": {
+        "count": 9,
+        "cluster_labels": 83,
+        "cluster_weights": 2724.0
+    },
+    "<Location> Bone/bone/rib/rib 4.": {
+        "count": 8,
+        "cluster_labels": 14,
+        "cluster_weights": 3064.5
+    },
+    "<Location> Bone/bone/clavicle/left clavicle.": {
+        "count": 8,
+        "cluster_labels": 16,
+        "cluster_weights": 1751.142857142857
+    },
+    "<Location> Bone/bone/rib/right rib/right rib 6.": {
+        "count": 7,
+        "cluster_labels": 62,
+        "cluster_weights": 1362.0
+    },
+    "<Location> Bone/bone/rib/rib 6/right rib 6.": {
+        "count": 7,
+        "cluster_labels": 62,
+        "cluster_weights": 1362.0
+    },
+    "<Location> Abdomen/abdomen/liver/caudate lobe.": {
+        "count": 7,
+        "cluster_labels": 27,
+        "cluster_weights": 3502.285714285714
+    },
+    "<Location> Bone/bone/rib/rib 9.": {
+        "count": 7,
+        "cluster_labels": 43,
+        "cluster_weights": 3502.285714285714
+    },
+    "<Location> Bone/bone/rib/left rib/left rib 7.": {
+        "count": 7,
+        "cluster_labels": 40,
+        "cluster_weights": 2228.7272727272725
+    },
+    "<Location> Bone/bone/rib/rib 7/left rib 7.": {
+        "count": 7,
+        "cluster_labels": 93,
+        "cluster_weights": 1065.9130434782608
+    },
+    "<Location> Bone/bone/vertebrae/thoracic vertebrae/thoracic vertebrae 7 (t7).": {
+        "count": 6,
+        "cluster_labels": 0,
+        "cluster_weights": 4086.0
+    },
+    "<Location> Abdomen/abdomen/intestine.": {
+        "count": 6,
+        "cluster_labels": 99,
+        "cluster_weights": 4086.0
+    },
+    "<Location> Bone/bone/clavicle/right clavicle.": {
+        "count": 6,
+        "cluster_labels": 16,
+        "cluster_weights": 1751.142857142857
+    },
+    "<Location> Bone/bone/vertebrae/thoracic vertebrae/thoracic vertebrae 4 (t4).": {
+        "count": 6,
+        "cluster_labels": 96,
+        "cluster_weights": 4086.0
+    },
+    "<Location> Bone/bone/vertebrae/lumbar vertebrae/lumbar vertebrae 2 (l2).": {
+        "count": 6,
+        "cluster_labels": 88,
+        "cluster_weights": 4086.0
+    },
+    "<Location> Bone/bone/vertebrae/thoracic vertebrae/thoracic vertebrae 5 (t5).": {
+        "count": 6,
+        "cluster_labels": 70,
+        "cluster_weights": 4086.0
+    },
+    "<Location> Abdomen/abdomen/celiac trunk.": {
+        "count": 6,
+        "cluster_labels": 52,
+        "cluster_weights": 4086.0
+    },
+    "<Location> Bone/bone/rib/left rib/left rib 8.": {
+        "count": 6,
+        "cluster_labels": 37,
+        "cluster_weights": 721.0588235294117
+    },
+    "<Location> Bone/bone/rib/rib 8/left rib 8.": {
+        "count": 6,
+        "cluster_labels": 37,
+        "cluster_weights": 721.0588235294117
+    },
+    "<Location> Abdomen/abdomen/portal vein and splenic vein.": {
+        "count": 6,
+        "cluster_labels": 51,
+        "cluster_weights": 4086.0
+    },
+    "<Location> Bone/bone/rib/right rib/right rib 5.": {
+        "count": 5,
+        "cluster_labels": 87,
+        "cluster_weights": 2451.6
+    },
+    "<Location> Bone/bone/rib/rib 5/right rib 5.": {
+        "count": 5,
+        "cluster_labels": 35,
+        "cluster_weights": 1167.4285714285713
+    },
+    "<Location> Bone/bone/rib/left rib/left rib 4.": {
+        "count": 5,
+        "cluster_labels": 79,
+        "cluster_weights": 1751.142857142857
+    },
+    "<Location> Bone/bone/rib/rib 4/left rib 4.": {
+        "count": 5,
+        "cluster_labels": 79,
+        "cluster_weights": 1751.142857142857
+    },
+    "<Location> Bone/bone/rib/left rib/left rib 9.": {
+        "count": 5,
+        "cluster_labels": 66,
+        "cluster_weights": 1751.142857142857
+    },
+    "<Location> Bone/bone/rib/rib 9/left rib 9.": {
+        "count": 5,
+        "cluster_labels": 66,
+        "cluster_weights": 1751.142857142857
+    },
+    "<Location> Bone/bone/rib/right rib/right rib 8.": {
+        "count": 5,
+        "cluster_labels": 37,
+        "cluster_weights": 721.0588235294117
+    },
+    "<Location> Bone/bone/rib/rib 8/right rib 8.": {
+        "count": 5,
+        "cluster_labels": 37,
+        "cluster_weights": 721.0588235294117
+    },
+    "<Location> Bone/bone/rib/left rib/left rib 5.": {
+        "count": 5,
+        "cluster_labels": 87,
+        "cluster_weights": 2451.6
+    },
+    "<Location> Bone/bone/rib/rib 5/left rib 5.": {
+        "count": 5,
+        "cluster_labels": 35,
+        "cluster_weights": 1167.4285714285713
+    },
+    "<Location> Bone/bone/vertebrae/thoracic vertebrae/thoracic vertebrae 1 (t1).": {
+        "count": 5,
+        "cluster_labels": 29,
+        "cluster_weights": 4903.2
+    },
+    "<Location> Bone/bone/scapula/left scapula.": {
+        "count": 5,
+        "cluster_labels": 25,
+        "cluster_weights": 3064.5
+    },
+    "<Location> Bone/bone/vertebrae/lumbar vertebrae/lumbar vertebrae 3 (l3).": {
+        "count": 5,
+        "cluster_labels": 78,
+        "cluster_weights": 4903.2
+    },
+    "<Location> Bone/bone/humerus/right humerus.": {
+        "count": 5,
+        "cluster_labels": 11,
+        "cluster_weights": 3064.5
+    },
+    "<Location> Bone/bone/rib/right rib/right rib 7.": {
+        "count": 4,
+        "cluster_labels": 40,
+        "cluster_weights": 2228.7272727272725
+    },
+    "<Location> Bone/bone/rib/rib 7/right rib 7.": {
+        "count": 4,
+        "cluster_labels": 93,
+        "cluster_weights": 1065.9130434782608
+    },
+    "<Location> Bone/bone/rib/rib 10.": {
+        "count": 4,
+        "cluster_labels": 45,
+        "cluster_weights": 3064.5
+    },
+    "<Location> Bone/bone/rib/rib 1.": {
+        "count": 4,
+        "cluster_labels": 80,
+        "cluster_weights": 3064.5
+    },
+    "<Location> Bone/bone/vertebrae/thoracic vertebrae/thoracic vertebrae 8 (t8).": {
+        "count": 4,
+        "cluster_labels": 69,
+        "cluster_weights": 6129.0
+    },
+    "<Location> Bone/bone/rib/left rib/left rib 6.": {
+        "count": 4,
+        "cluster_labels": 62,
+        "cluster_weights": 1362.0
+    },
+    "<Location> Bone/bone/rib/rib 6/left rib 6.": {
+        "count": 4,
+        "cluster_labels": 47,
+        "cluster_weights": 1362.0
+    },
+    "<Location> Bone/bone/rib/rib 11.": {
+        "count": 4,
+        "cluster_labels": 22,
+        "cluster_weights": 2724.0
+    },
+    "<Location> Bone/bone/rib/right rib/right rib 10.": {
+        "count": 3,
+        "cluster_labels": 77,
+        "cluster_weights": 4086.0
+    },
+    "<Location> Bone/bone/rib/rib 10/right rib 10.": {
+        "count": 3,
+        "cluster_labels": 45,
+        "cluster_weights": 3064.5
+    },
+    "<Location> Mediastinum/superior vena cava.": {
+        "count": 3,
+        "cluster_labels": 44,
+        "cluster_weights": 8172.0
+    },
+    "<Location> Bone/bone/vertebrae/thoracic vertebrae/thoracic vertebrae 2 (t2).": {
+        "count": 3,
+        "cluster_labels": 56,
+        "cluster_weights": 8172.0
+    },
+    "<Location> Bone/bone/vertebrae/lumbar vertebrae/lumbar vertebrae 4 (l4).": {
+        "count": 3,
+        "cluster_labels": 13,
+        "cluster_weights": 8172.0
+    },
+    "<Location> Bone/bone/humerus/left humerus.": {
+        "count": 3,
+        "cluster_labels": 11,
+        "cluster_weights": 3064.5
+    },
+    "<Location> Bone/bone/scapula/right scapula.": {
+        "count": 3,
+        "cluster_labels": 25,
+        "cluster_weights": 3064.5
+    },
+    "<Location> Abdomen/abdomen/renal artery.": {
+        "count": 3,
+        "cluster_labels": 48,
+        "cluster_weights": 8172.0
+    },
+    "<Location> Others/larynx.": {
+        "count": 3,
+        "cluster_labels": 32,
+        "cluster_weights": 10
+    },
+    "<Location> Others/iliac artery.": {
+        "count": 3,
+        "cluster_labels": 31,
+        "cluster_weights":10
+    },
+    "<Location> Bone/bone/rib/right rib/right rib 4.": {
+        "count": 2,
+        "cluster_labels": 79,
+        "cluster_weights": 1751.142857142857
+    },
+    "<Location> Bone/bone/rib/rib 4/right rib 4.": {
+        "count": 2,
+        "cluster_labels": 79,
+        "cluster_weights": 1751.142857142857
+    },
+    "<Location> Bone/bone/rib/right rib/right rib 1.": {
+        "count": 2,
+        "cluster_labels": 2,
+        "cluster_weights": 875.5714285714286
+    },
+    "<Location> Bone/bone/rib/rib 1/right rib 1.": {
+        "count": 2,
+        "cluster_labels": 80,
+        "cluster_weights": 3064.5
+    },
+    "<Location> Bone/bone/vertebrae/lumbar vertebrae/lumbar vertebrae 5 (l5).": {
+        "count": 2,
+        "cluster_labels": 91,
+        "cluster_weights": 10000
+    },
+    "<Location> Bone/bone/rib/left rib/left rib 1.": {
+        "count": 2,
+        "cluster_labels": 49,
+        "cluster_weights": 700.4571428571429
+    },
+    "<Location> Bone/bone/rib/rib 1/left rib 1.": {
+        "count": 2,
+        "cluster_labels": 80,
+        "cluster_weights": 3064.5
+    },
+    "<Location> Bone/bone/rib/left rib/left rib 11.": {
+        "count": 2,
+        "cluster_labels": 22,
+        "cluster_weights": 2724.0
+    },
+    "<Location> Bone/bone/rib/rib 11/left rib 11.": {
+        "count": 2,
+        "cluster_labels": 22,
+        "cluster_weights": 2724.0
+    },
+    "<Location> Bone/bone/rib/right rib/right rib 9.": {
+        "count": 2,
+        "cluster_labels": 66,
+        "cluster_weights": 1751.142857142857
+    },
+    "<Location> Bone/bone/rib/rib 9/right rib 9.": {
+        "count": 2,
+        "cluster_labels": 66,
+        "cluster_weights": 1751.142857142857
+    },
+    "<Location> Bone/bone/rib/right rib/right rib 12.": {
+        "count": 2,
+        "cluster_labels": 77,
+        "cluster_weights": 4086.0
+    },
+    "<Location> Bone/bone/rib/rib 12.": {
+        "count": 2,
+        "cluster_labels": 60,
+        "cluster_weights": 6129.0
+    },
+    "<Location> Bone/bone/rib/rib 12/right rib 12.": {
+        "count": 2,
+        "cluster_labels": 60,
+        "cluster_weights": 6129.0
+    },
+    "<Location> Mediastinum/subclavian artery/right subclavian artery.": {
+        "count": 2,
+        "cluster_labels": 18,
+        "cluster_weights": 2043.0
+    },
+    "<Location> Bone/bone/rib/rib 2.": {
+        "count": 2,
+        "cluster_labels": 67,
+        "cluster_weights": 4903.2
+    },
+    "<Location> Heart/heart/heart atrium/right heart atrium.": {
+        "count": 1,
+        "cluster_labels": 36,
+        "cluster_weights": 1634.4
+    },
+    "<Location> Bone/bone/rib/left rib/left rib 10.": {
+        "count": 1,
+        "cluster_labels": 49,
+        "cluster_weights": 700.4571428571429
+    },
+    "<Location> Bone/bone/rib/rib 10/left rib 10.": {
+        "count": 1,
+        "cluster_labels": 45,
+        "cluster_weights": 3064.5
+    },
+    "<Location> Bone/bone/rib/right rib/right rib 3.": {
+        "count": 1,
+        "cluster_labels": 65,
+        "cluster_weights": 8172.0
+    },
+    "<Location> Bone/bone/rib/rib 3.": {
+        "count": 1,
+        "cluster_labels": 65,
+        "cluster_weights": 8172.0
+    },
+    "<Location> Bone/bone/rib/rib 3/right rib 3.": {
+        "count": 1,
+        "cluster_labels": 65,
+        "cluster_weights": 8172.0
+    },
+    "<Location> Bone/bone/vertebrae/cervical vertebrae/cervical vertebrae 6 (c6).": {
+        "count": 1,
+        "cluster_labels": 46,
+        "cluster_weights": 10000
+    },
+    "<Location> Bone/bone/rib/right rib/right rib 11.": {
+        "count": 1,
+        "cluster_labels": 77,
+        "cluster_weights": 4086.0
+    },
+    "<Location> Bone/bone/rib/rib 11/right rib 11.": {
+        "count": 1,
+        "cluster_labels": 22,
+        "cluster_weights": 2724.0
+    },
+    "<Location> Others/urinary bladder.": {
+        "count": 1,
+        "cluster_labels": 17,
+        "cluster_weights": 10
+    },
+    "<Location> Others/prostate.": {
+        "count": 1,
+        "cluster_labels": 39,
+        "cluster_weights": 10
+    },
+    "<Location> Mediastinum/subclavian artery/left subclavian artery.": {
+        "count": 1,
+        "cluster_labels": 18,
+        "cluster_weights": 2043.0
+    },
+    "<Location> Bone/bone/sternum/manubrium of sternum.": {
+        "count": 1,
+        "cluster_labels": 24,
+        "cluster_weights": 10000
+    },
+    "<Location> Others/inferior vena cava.": {
+        "count": 1,
+        "cluster_labels": 28,
+        "cluster_weights": 10
+    },
+    "<Location> Bone/bone/rib/left rib/left rib 2.": {
+        "count": 1,
+        "cluster_labels": 67,
+        "cluster_weights": 4903.2
+    },
+    "<Location> Bone/bone/rib/rib 2/left rib 2.": {
+        "count": 1,
+        "cluster_labels": 67,
+        "cluster_weights": 4903.2
+    },
+    "<Location> Mediastinum/pulmonary vein.": {
+        "count": 1,
+        "cluster_labels": 90,
+        "cluster_weights": 10000
+    },
+    "<Location> Bone/bone/rib/right rib/right rib 2.": {
+        "count": 1,
+        "cluster_labels": 2,
+        "cluster_weights": 875.5714285714286
+    },
+    "<Location> Bone/bone/rib/rib 2/right rib 2.": {
+        "count": 1,
+        "cluster_labels": 67,
+        "cluster_weights": 4903.2
+    },
+    "<Location> Bone/bone/vertebrae/thoracic vertebrae/thoracic vertebrae 3 (t3).": {
+        "count": 1,
+        "cluster_labels": 50,
+        "cluster_weights": 10000
+    }
+}
